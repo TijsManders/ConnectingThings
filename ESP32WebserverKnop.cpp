@@ -2,8 +2,8 @@
 #include <WebServer.h>
 #define BUTTON_PIN 21
 
-const char* ssid = "TM-I5-6200 9671";
-const char* password = "Framboos123!";
+const char* ssid = "";
+const char* password = "";
 int lastState = LOW;
 int currentState;
 
